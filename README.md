@@ -1,5 +1,7 @@
 # Microprocessor Simulations
 
+*Course: Fundamentals of Microprocessor Technology (Podstawy techniki mikroprocesorowej) · Kraków University of Economics*
+
 Assignments from the subject of Fundamentals of Microprocessor Technology. Built using SimulIDE and Arduino IDE. Solutions are based on the Arduino Mega controller.
 
 ## Design Notes
